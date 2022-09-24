@@ -1,0 +1,11 @@
+root@ubuntu-focal:/home/vagrant/altschool# tail /etc/group
+vboxsf:x:119:
+vagrant:x:1000:
+systemd-coredump:x:999:
+ubuntu:x:1001:
+destiny:x:1002:
+support:x:1003:user2
+engineering:x:1004:user3
+user1:x:1005:
+user2:x:1006:
+user3:x:1007:
